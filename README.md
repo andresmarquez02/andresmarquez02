@@ -1,16 +1,20 @@
-### Hi there 👋
+# ¡Hola! Soy Andres Marquez 👋🏻
 
-<!--
-**andresmarquez02/andresmarquez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador 💻 fullstack con experiencia en el uso de tecnologías como Laravel, Vue y React. Me considero un apasionado ❤️ del desarrollo, disfruto cada momento que paso programando. Para mí, no hay nada mejor que trabajar en un proyecto desafiante mientras escucho mi música favorita. 🎶
 
-Here are some ideas to get you started:
+## Algunos de mis proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [Clon de whatsapp (Vuejs, Firebase)](https://github.com/andresmarquez02/whatsapp-clone)
+ - [Aplicacion del Clima](https://github.com/andresmarquez02/app-climate)
+ - [Compresor de imagenes (Laravel, Vuejs)](https://github.com/andresmarquez02/Compresor)
+
+## Puedes encontrarme en:
+
+ - [Linkedin](https://www.linkedin.com/in/andres-marquez-02/)
+ - [Whatsapp](https://wa.me/+584129298833)
+ - [Telegram](https://t.me/andresmarquez02)
+ - [Instagram](https://instagram.com/andresmarquez02)
+
+Si estás buscando a alguien con pasión por el desarrollo y compromiso con la excelencia, no dudes en contactarme. 
+
+#### ¡Estoy listo para llevar tus proyectos al siguiente nivel! 💻💪🏽
