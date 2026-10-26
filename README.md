@@ -27,52 +27,6 @@ Fullstack developer and automation engineer from Caracas, working remotely with 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/h-proof-light.svg">
-  <img alt="Proof, not promises." src="assets/h-proof-dark.svg" width="100%">
-</picture>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.ottawaforddealers.com/"><img src="assets/shot-ottawa-ford.jpg" alt="Ottawa Ford Dealers website"></a>
-      <h3>Ottawa Ford Dealers</h3>
-      A full WordPress build for the Ford dealers of Ottawa: custom child theme and the complete design.<br>
-      <sub><b>WordPress · Child theme · Design</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://midoctorpr.com/"><img src="assets/shot-mi-doctor-pr.jpg" alt="Mi Doctor PR website"></a>
-      <h3>Mi Doctor PR</h3>
-      Medical directory and online booking for Puerto Rico: search by specialty and location, book in a few clicks.<br>
-      <sub><b>Web app · Directory · Booking</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://leadboxhq.com/"><img src="assets/shot-leadbox.jpg" alt="Leadbox website"></a>
-      <h3>Leadbox</h3>
-      500+ tickets across 100+ dealer websites: landing pages, vehicle data, third-party integrations and automations. Load times cut by 40%.<br>
-      <sub><b>WordPress · Vue.js · Integrations</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://dropanas.com/"><img src="assets/shot-dropanas.jpg" alt="Dropanas website"></a>
-      <h3>Dropanas</h3>
-      A dropshipping ecosystem for Venezuela. I built the Laravel admin modules that run the operation behind the store.<br>
-      <sub><b>Laravel · Admin modules</b></sub>
-    </td>
-  </tr>
-</table>
-
-**Private automations** (no screenshots, real data):
-
-| | What it does | Built with |
-| --- | --- | --- |
-| **QSM · Triple-S** | Medical referrals end to end: every case processed, emails sent, notes logged, signature and dates stamped on the PDF, with a real-time panel and audit trail. | n8n · Gemini · Next.js · Supabase |
-| **MContigo · Amazon ES/IT** | A daily pipeline that catches products without a valid UID or Child ASIN and publishes a per-country history to Google Sheets. | Python · pandas · Sheets API |
-| **Marver ERP ↔ CRM** | Customers, vacations and absences synced with GoHighLevel over OAuth 2.0. A CRM outage never rolls back an ERP operation. | Laravel · Angular · GoHighLevel |
-
-<br>
-
-<picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/timeline-light.svg">
   <img alt="Experience: Multiparadise 2020, Monchis Mercado 2021, Vulister 2022, Valdusoft 2024, Leadbox 2024, Distribuciones Marver 2025." src="assets/timeline-dark.svg" width="100%">
 </picture>
