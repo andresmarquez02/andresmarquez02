@@ -1,43 +1,130 @@
-# Andrés Márquez
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Andrés Márquez — Software that scales, work that runs itself." src="assets/banner-dark.svg" width="100%">
+</picture>
 
-**Fullstack developer & automation engineer.** I build software that scales and work that runs itself: ERPs, dealer websites, internal tools and the automations that connect them.
+<p align="center">
+  <a href="https://andresmarquez.site"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-andresmarquez.site-111118?style=for-the-badge&labelColor=1d1d27"></a>
+  <a href="https://www.linkedin.com/in/andres-marquez-02/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-andres--marquez--02-111118?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"></a>
+  <a href="mailto:andres03marquez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andres03marquez-111118?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"></a>
+  <a href="https://wa.me/+584129298833"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message_me-111118?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"></a>
+</p>
 
-Based in Caracas, Venezuela. Working remotely with teams in Canada and Spain since 2022.
+Fullstack developer and automation engineer from Caracas, working remotely with teams in Canada and Spain. I build ERPs, dealer websites and internal tools, and the automations that connect them, so work gets done without anyone remembering to do it.
 
-[Portfolio](https://andresmarquez.site) · [LinkedIn](https://www.linkedin.com/in/andres-marquez-02/) · [Email](mailto:andres03marquez@gmail.com) · [WhatsApp](https://wa.me/+584129298833)
+<br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-build-light.svg">
+  <img alt="What I build." src="assets/h-build-dark.svg" width="100%">
+</picture>
 
-### What I do
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/services-light.svg">
+  <img alt="Web and fullstack, automation, AI engineering, quality and performance." src="assets/services-dark.svg" width="100%">
+</picture>
 
-- **Web & fullstack.** Laravel, Vue, React, Next.js and Angular. 500+ frontend tickets shipped across 100+ car dealer websites at Leadbox, with load times cut by 40%.
-- **Automation.** n8n, Zapier, GoHighLevel and Python flows that remove manual work: medical referrals processed end to end, daily data-quality pipelines, ERP ↔ CRM sync over OAuth 2.0.
-- **AI engineering.** I work with AI agents every day (Claude Code, MCP, OpenSpec) with a spec before any code and a review on every change. I also ship AI inside products, like Gemini agents in n8n flows.
-- **Quality.** Playwright suites across Chromium, Firefox and WebKit, OWASP ZAP scans, Pest and PHPStan level 8.
+<br>
 
-### Experience
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-proof-light.svg">
+  <img alt="Proof, not promises." src="assets/h-proof-dark.svg" width="100%">
+</picture>
 
-| Role | Company | When |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.ottawaforddealers.com/"><img src="assets/shot-ottawa-ford.jpg" alt="Ottawa Ford Dealers website"></a>
+      <h3>Ottawa Ford Dealers</h3>
+      A full WordPress build for the Ford dealers of Ottawa: custom child theme and the complete design.<br>
+      <sub><b>WordPress · Child theme · Design</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://midoctorpr.com/"><img src="assets/shot-mi-doctor-pr.jpg" alt="Mi Doctor PR website"></a>
+      <h3>Mi Doctor PR</h3>
+      Medical directory and online booking for Puerto Rico: search by specialty and location, book in a few clicks.<br>
+      <sub><b>Web app · Directory · Booking</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://leadboxhq.com/"><img src="assets/shot-leadbox.jpg" alt="Leadbox website"></a>
+      <h3>Leadbox</h3>
+      500+ tickets across 100+ dealer websites: landing pages, vehicle data, third-party integrations and automations. Load times cut by 40%.<br>
+      <sub><b>WordPress · Vue.js · Integrations</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://dropanas.com/"><img src="assets/shot-dropanas.jpg" alt="Dropanas website"></a>
+      <h3>Dropanas</h3>
+      A dropshipping ecosystem for Venezuela. I built the Laravel admin modules that run the operation behind the store.<br>
+      <sub><b>Laravel · Admin modules</b></sub>
+    </td>
+  </tr>
+</table>
+
+**Private automations** (no screenshots, real data):
+
+| | What it does | Built with |
 | --- | --- | --- |
-| Fullstack Developer & Automation Engineer | Distribuciones Marver (Spain, remote) | Nov 2025 – May 2026 |
-| Frontend Developer | Leadbox (Canada, remote) | May 2024 – present |
-| Fullstack Developer | Valdusoft (Venezuela, remote) | Sep 2024 – Jan 2025 |
-| Fullstack Developer | Vulister (Spain, remote) | Dec 2022 – Jul 2023 |
-| Fullstack Developer | Monchis Mercado (Venezuela) | Apr 2021 – Nov 2022 |
-| Fullstack Developer | Multiparadise (Venezuela) | Jul 2020 – Feb 2021 |
+| **QSM · Triple-S** | Medical referrals end to end: every case processed, emails sent, notes logged, signature and dates stamped on the PDF, with a real-time panel and audit trail. | n8n · Gemini · Next.js · Supabase |
+| **MContigo · Amazon ES/IT** | A daily pipeline that catches products without a valid UID or Child ASIN and publishes a per-country history to Google Sheets. | Python · pandas · Sheets API |
+| **Marver ERP ↔ CRM** | Customers, vacations and absences synced with GoHighLevel over OAuth 2.0. A CRM outage never rolls back an ERP operation. | Laravel · Angular · GoHighLevel |
 
-### Stack
+<br>
 
-**In production:** Laravel · PHP · Vue · React · Next.js · Angular · TypeScript · WordPress · Tailwind CSS · MySQL · PostgreSQL · Supabase
-**Automation & data:** n8n · Zapier · GoHighLevel · Python · pandas · Playwright
-**AI:** Claude Code · MCP · OpenSpec · Gemini
-**3D:** Three.js · React Three Fiber
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/timeline-light.svg">
+  <img alt="Experience: Multiparadise 2020, Monchis Mercado 2021, Vulister 2022, Valdusoft 2024, Leadbox 2024, Distribuciones Marver 2025." src="assets/timeline-dark.svg" width="100%">
+</picture>
 
-### Featured here
+<br>
 
-- [**lapredi**](https://github.com/andresmarquez02/lapredi): football match predictions that blend a Poisson / Dixon-Coles model with an LLM's read of the match context. [Live](https://lapredi.vercel.app)
-- [**andresmarquez**](https://github.com/andresmarquez02/andresmarquez): my portfolio. React, GSAP and Three.js. [Live](https://andresmarquez.site)
-- [**puerquito-shop**](https://github.com/andresmarquez02/puerquito-shop): e-commerce for Venezuela with USD / VES pricing and local payments. Next.js, Supabase, Stripe, n8n.
-- [**leadcode**](https://github.com/andresmarquez02/leadcode): a workspace that makes dealer landing pages on WordPress / Gutenberg reproducible: markup contract, templates and verification tools.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-stack-light.svg">
+  <img alt="Tools, not identity." src="assets/h-stack-dark.svg" width="100%">
+</picture>
 
-Most of my client work lives in private repositories. The portfolio walks through it: problem, solution and result.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,php,vue,react,nextjs,angular,ts,wordpress,tailwind,mysql,postgres,supabase,python,threejs,git&theme=light&perline=15">
+    <img alt="Laravel, PHP, Vue, React, Next.js, Angular, TypeScript, WordPress, Tailwind, MySQL, PostgreSQL, Supabase, Python, Three.js, Git" src="https://skillicons.dev/icons?i=laravel,php,vue,react,nextjs,angular,ts,wordpress,tailwind,mysql,postgres,supabase,python,threejs,git&theme=dark&perline=15">
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
+  <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white">
+  <img alt="GoHighLevel" src="https://img.shields.io/badge/GoHighLevel-1d1d27?style=flat-square">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-1d1d27?style=flat-square">
+</p>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-numbers-light.svg">
+  <img alt="By the numbers." src="assets/h-numbers-dark.svg" width="100%">
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=andresmarquez02&show_icons=true&hide_border=false&bg_color=ffffff&title_color=1e1e2a&text_color=363644&icon_color=188554&border_color=dddde5&border_radius=14&count_private=true">
+    <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=andresmarquez02&show_icons=true&bg_color=111118&title_color=fafafc&text_color=d6d6de&icon_color=3ecf8e&border_color=2c2c38&border_radius=14&count_private=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmarquez02&layout=compact&bg_color=ffffff&title_color=1e1e2a&text_color=363644&border_color=dddde5&border_radius=14&langs_count=8">
+    <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmarquez02&layout=compact&bg_color=111118&title_color=fafafc&text_color=d6d6de&border_color=2c2c38&border_radius=14&langs_count=8">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=andresmarquez02&background=ffffff&border=dddde5&stroke=dddde5&ring=188554&fire=188554&currStreakNum=1e1e2a&sideNums=1e1e2a&currStreakLabel=1e1e2a&sideLabels=696976&dates=9d9da8&border_radius=14">
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=andresmarquez02&background=111118&border=2c2c38&stroke=2c2c38&ring=3ecf8e&fire=3ecf8e&currStreakNum=fafafc&sideNums=fafafc&currStreakLabel=fafafc&sideLabels=8b8b98&dates=5f5f6c&border_radius=14">
+  </picture>
+</p>
+
+<p align="center"><sub>Most of my client work lives in private repositories. <a href="https://andresmarquez.site">The portfolio</a> walks through it: problem, solution and result.</sub></p>
